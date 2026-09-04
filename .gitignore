@@ -1,0 +1,25 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+*.mex*
+.matlab-prefs/
+
+# Imaging data and generated output
+data/
+results/
+*.mat
+*.nii
+*.nii.gz
+*.img
+*.hdr
+*.fig
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
